@@ -1,0 +1,20 @@
+{
+  "name": "one-player",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiroshji/One-Player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiroshji/One-Player/issues"
+  },
+  "homepage": "https://github.com/Hiroshji/One-Player#readme",
+  "keywords": [],
+  "description": ""
+}
